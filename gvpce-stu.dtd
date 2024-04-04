@@ -1,0 +1,7 @@
+<!ELEMENT gvpce (student+)>
+<!ELEMENT student (roll_no,name,section,year,phone_no)>
+<!ELEMENT roll_no (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT phone_no (#PCDATA)>

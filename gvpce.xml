@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./student.xsl"?>
+<!DOCTYPE gvpce SYSTEM "gvpce-stu.dtd">
+<gvpce>
+    <student>
+        <roll_no>21131A4202</roll_no>
+        <name>Annepu Lokesh</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>6301005470</phone_no>
+    </student>
+
+    <student>
+        <roll_no>21131A4240</roll_no>
+        <name>Songa Varaprasad</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>6301964233</phone_no>
+    </student>
+
+    <student>
+        <roll_no>21131A4243</roll_no>
+        <name>Tarun Yegireddi</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>9392440350</phone_no>
+    </student>
+
+    <student>
+        <roll_no>21131A4248</roll_no>
+        <name>Vantakula Satya Kiran</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>891995716</phone_no>
+    </student>
+
+    <student>
+        <roll_no>21131A4255</roll_no>
+        <name>Irri Dileep Kumar</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>9949362144</phone_no>
+    </student>
+
+    <student>
+        <roll_no>21131A4258</roll_no>
+        <name>MCS Lokesh</name>    
+        <section>CSM</section>
+        <year>III</year>
+        <phone_no>7702890505</phone_no>
+    </student>
+</gvpce>
